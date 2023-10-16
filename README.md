@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alamin</h1>
 <h3 align="center"> i am learning</h3>
-<img align="rihgt"alt-"coding"width="400"src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
+<img align="rihgt"alt-"coding"width="400"src="![image](https://github.com/alamin-wsd/alamin-wsd/assets/145224076/ea482381-660f-4267-8cfc-1f914afc4106)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin-wsd&label=Profile%20views&color=0e75b6&style=flat" alt="alamin-wsd" /> </p>
 
 - 🔭 I’m currently working on **YouTube , Raihant's ict**
