@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **YouTube , Raihant's ict**
 
-- 🌱 I’m currently learning **html, css, javascript, php, bootstrap**
+- 🌱 I’m currently learning **html, css, javascript, php, bootstrap,laravel**
 
-- 💬 Ask me about **html & css**
+- 💬 Ask me about **html & css,**
 
 - 📫 How to reach me **alaminua2002@gmail.com**
 
