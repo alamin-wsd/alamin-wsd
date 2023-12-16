@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alamin</h1>
-<h3 align="center"> i am learning</h3>
+<h3 align="center"> I am learning</h3>
 <img align="rihgt"alt-"coding"width="400"src="https://media.istockphoto.com/id/1075599562/photo/programmer-working-with-program-code.jpg?s=1024x1024&w=is&k=20&c=R9Be5UlsTmSki_Bqxqedt-65U_mNMsVQzOpECKvawDs=">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin-wsd&label=Profile%20views&color=0e75b6&style=flat" alt="alamin-wsd" /> </p>
 
-- 🔭 I’m currently working on **YouTube , Raihant's ict**
+- 🔭 I’m currently working on **YouTube , Rayhan's ICT**
 
-- 🌱 I’m currently learning **html, css, javascript, php, bootstrap,laravel**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Bootstrap, Laravel**
 
-- 💬 Ask me about **html & css,**
+- 💬 Ask me about **HTML & CSS,**
 
 - 📫 How to reach me **alaminua2002@gmail.com**
 
