@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin-wsd&label=Profile%20views&color=0e75b6&style=flat" alt="alamin-wsd" /> </p>
 
 - 🔭 I’m currently working on **YouTube , Rayhan's ICT**
+- Student of uttara University.
+- Department of CSE
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, PHP, Bootstrap, Laravel**
 
